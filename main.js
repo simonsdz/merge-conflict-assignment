@@ -1,2 +1,6 @@
 var number = 100;
-var string = "Hello Younger sister";
+<<<<<<< HEAD
+var string = "Hello Sibling";
+=======
+var string = "Hello Sibling";
+>>>>>>> 62ef2aa670d1559cf739a00c15f980de49eccd7e
